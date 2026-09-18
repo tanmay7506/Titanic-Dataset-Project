@@ -1,5 +1,7 @@
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
+# Project URL - https://roadmap.sh/projects/titanic-eda-python
+
 This project focuses on analyzing the historic Titanic passenger dataset to uncover the key factors that influenced passenger survival rates. The main objective is to answer the question: **What kinds of passengers were more likely to survive?**
 
 This repository contains data cleaning, insights generation, and visualizations built using Python's data science ecosystem.
@@ -52,7 +54,7 @@ pip install pandas matplotlib seaborn jupyter
 
 ## Project Structure
 ```text
-├── train.csv                # Titanic dataset from Kaggle
-├── titanic_eda.ipynb        # Notebook containing the main analysis and plots
-└── README.md                # Project documentation
+├── train.csv                                  # Titanic dataset from Kaggle
+├── Exploring_the_titanic_dataset.ipynb        # Notebook containing the main analysis and plots
+└── README.md                                  # Project documentation
 ```
